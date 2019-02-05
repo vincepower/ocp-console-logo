@@ -9,7 +9,9 @@
 Add this to the hosts file
 
 ```
-# [Configure extension stylesheets for web console customization](https://docs.openshift.com/enterprise/latest/install_config/web_console_customization.html#loading-custom-scripts-and-stylesheets)
+# Configure extension stylesheets for web console customization
+# https://docs.openshift.com/enterprise/latest/install_config/web_console_customization.html#loading-custom-scripts-and-stylesheets
+#
 openshift_web_console_extension_stylesheet_urls=['https://raw.githubusercontent.com/vincepower/ocp-console-logo/master/azure.css']
 ```
 

@@ -2,7 +2,9 @@
 
 ## Azure
 
+```
 azure.css
 azure.png
+```
 
 ## Other clouds will be added as required

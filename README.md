@@ -1,0 +1,1 @@
+# ocp-msft-rht-logo
